@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97227070419",
+    "project_id": "pblcanteen-db4fc",
+    "storage_bucket": "pblcanteen-db4fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97227070419:android:caf66747783265d55cad26",
+        "android_client_info": {
+          "package_name": "com.nikidazzle.pblcanteen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97227070419-76hksf159c61h4dni8hqqijg178egtan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQw6Dtt7_B6_LO2XCjy4I4N4FnQK5zZbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97227070419-76hksf159c61h4dni8hqqijg178egtan.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
