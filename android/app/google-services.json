@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "330567867687",
+    "project_id": "flash-chat-63192",
+    "storage_bucket": "flash-chat-63192.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330567867687:android:5aa0cd60bae7b675b09d02",
+        "android_client_info": {
+          "package_name": "com.nikidazzle.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "330567867687-7mov7vjmf7cvp8m9ehjtdie4s78339m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZz_BIeUNPWjC-CumHnx9iJc9ctagE0yg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "330567867687-7mov7vjmf7cvp8m9ehjtdie4s78339m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
